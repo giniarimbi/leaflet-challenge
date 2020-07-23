@@ -19,7 +19,7 @@ This is the example of information from a single coordinate.
 <!-- ![](images/json.png) -->
 
 <p align="center">
-    <img src="images/json.png" height="600px" weight="400px"> 
+    <img src="images/json.PNG" height="600px" weight="400px"> 
 
 </p>
 
@@ -31,7 +31,7 @@ This is the example of information from a single coordinate.
 
 This is the result of the visualization. Different color indicate different magnitude of earthquake, as indicated in the **legend**.   
 
-![](images/earthquake_map.png)
+![](images/earthquake_map.PNG)
 
 * Marker 
 Each earthquake coordinates is plotted to the map to indicate the earthquake occurance. The bigger the circle, the bigger the magnitude. The color of the circle correlates with the earthquake magnitude. 
@@ -48,8 +48,8 @@ Detail information on the earthquake can be obtained by click individual circle.
 ### 3. File Directory
 
 
-File | Location | Remarks 
-------|------|------|-----
+File  | Location | Remarks 
+------|------|------
 index.html | main folder | Front End Page
 logic.js | `static/js` | JS script 
 style.css | `static/cs` | style-related script
